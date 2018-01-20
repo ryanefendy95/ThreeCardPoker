@@ -1,4 +1,4 @@
-# "Mark43 Poker" Judger
+# Three Card Poker Judger
 
 Accepts as its input a collection of hands of cards (3 Card Poker), and selects the winner from among those hands.
 
